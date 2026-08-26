@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/LibreHardwareMonitor-compatible-2563EB" alt="LibreHardwareMonitor">
 </p> <p align="center">
   Tableau de bord local de télémétrie matérielle, alimenté par LibreHardwareMonitor.  
-
   Interface web responsive avec jauges CPU, GPU, mémoire, stockage et capteurs auxiliaires.
 </p>
 
